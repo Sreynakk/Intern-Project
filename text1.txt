@@ -1,0 +1,12 @@
+GIT AND GITHUB =version control
+git is version control system that is free and open source
+vc is ka change pi generation mouy tv generation mouy
+repository chear folder chear k'lang tuk project
+GitHub  chea website ptus repository also vc
+git status to check ler chang ey mouy ler git
+rbeb add project add status
+git add
+git commit
+git push
+second person type git pull if it show already up to date yg ach jol kea ban but jeg ey pseng can not
+git pull jg dg last version
